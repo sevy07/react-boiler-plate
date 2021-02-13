@@ -1,0 +1,15 @@
+{
+  // Recommended VSCode extensions for this project
+  "recommendations": [
+    // Editor integration for ESLint
+    "dbaeumer.vscode-eslint",
+    // Editor integration for Prettier
+    "esbenp.prettier-vscode",
+    // Syntax highlighting and editor integration for .editorconfig
+    "editorconfig.editorconfig",
+    // Syntax highlighting for .env files
+    "mikestead.dotenv",
+    // Display the bundle size of Javascript imports inline
+    "wix.vscode-import-cost"
+  ]
+}
